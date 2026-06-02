@@ -29,9 +29,11 @@ Grants & Scholarships
 ======
 
 * **Scholarships**
-  * Awarded the [Türkiye Scholarship](https://www.turkiyeburslari.gov.tr/) for fully funded undergraduate studies.
-  * Received [Erasmus+ Traineeship](https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/traineeships-abroad-for-students) funding for a 3-month research position at Karolinska Institutet.
-  * Accepted to [EU-funded SUSA Internship](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/11143) developing Nextflow pipelines for cancer genomics tools at Middle East Technical University in February 2026.
+  * Awarded the [Türkiye Scholarship](https://www.turkiyeburslari.gov.tr/) for fully funded undergraduate studies (2022).
+  * Received [Erasmus+ Traineeship](https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/traineeships-abroad-for-students) funding for a 3-month research position at Karolinska Institutet (2025).
+  * Awarded the [EU-funded SUSA Internship](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/11143) developing Nextflow pipelines for cancer genomics tools at Middle East Technical University (2026).
+  * Selected as one of 240 of 10,000 applicants for the Türkiye Bursları‑funded [Sabancı University PURE internship](https://pure.sabanciuniv.edu/), developing computational tools for genomic mutation pathogenicity prediction (2026).
+
 
 * **Grants**
   * Recipient of the [TÜBİTAK 2209-A](https://tubitak.gov.tr/en/scholarships/lisans-onlisans/destek-programlari/2209-research-project-support-programme-undergraduate-students) Undergraduate Research Grant.
