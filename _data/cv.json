@@ -50,6 +50,18 @@
       ]
     },
     {
+      "company": "Sabancı University",
+      "position": "Undergraduate Researcher",
+      "startDate": "2026-07-01",
+      "endDate": "2026-09-01",
+      "summary": "Developed a phylogenomics framework to map mutational tolerance and nucleotide-level evolution rates across pathogenic bacterial genomes.",
+      "highlights": [
+        "Identified fast-evolving regions correlated with antimicrobial drug resistance and slow-evolving regions containing potential therapeutic targets.",
+        "Built a scalable Snakemake pipeline for MSA, phylogeny reconstruction, and evolution rate scoring for pathogens.",
+        "Türkiye Scholarships Funded Internship."
+      ]
+    },
+    {
       "company": "Middle East Technical University",
       "position": "Bioinformatics Intern",
       "startDate": "2026-01-01",

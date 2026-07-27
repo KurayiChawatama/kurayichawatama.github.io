@@ -38,6 +38,13 @@ Research Experience
   * Proposed and secured a grant to perform cross-species scRNA-seq integration and differential analysis of the poorly treated and characterized NASH-HCC, which lacks human scRNA-seq data, and validated in vitro using an FFA-induced HCC model. [TÜBİTAK 2209-A Grant Funded](https://tubitak.gov.tr/en/scholarships/lisans-onlisans/destek-programlari/2209-research-project-support-programme-undergraduate-students)
   * The preliminary results poster was awarded the honor prize at a [bioinformatics symposium](https://hibit2025.medipol.edu.tr/)
 
+* Jul 2026-Sep 2026: **Undergraduate Researcher**
+
+  *Assoc. Prof. Ogün Adebali, Sabancı University, Türkiye*
+
+  * Developed a phylogenomics framework to map mutational tolerance and nucleotide-level evolution rates across pathogenic bacterial genomes. This was used to identify fast-evolving regions that correlate with antimicrobial drug resistance and slow-evolving regions that contain potential therapeutic targets.
+  * Built a scalable Snakemake pipeline for MSA, phylogeny reconstruction, and evolution rate scoring for pathogens. [Türkiye Scholarships Funded Internship](https://pure.sabanciuniv.edu/)
+
 * Jan 2026-Feb 2026: **Bioinformatics Intern**
   
   *Asst. Prof. Burçak Otlu, Middle East Technical University, Türkiye*
