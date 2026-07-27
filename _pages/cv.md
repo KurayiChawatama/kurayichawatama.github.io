@@ -26,7 +26,7 @@ Education
 
   *Uludağ University, Bursa, Türkiye*
 
-  * GPA: 3.1/4 
+  * GPA: 3.27/4
 
 Research Experience
 ======
