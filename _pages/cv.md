@@ -17,7 +17,7 @@ Skills
 * **Computational:** 
   * **Programming Languages:** R, Python, Nextflow, Bash, Arduino
   * **NGS Data Analysis:** Bulk & Single Cell RNA-seq, TCR-seq, CITE-seq, Microarray, WES/WGS Processing & Variant Analysis, ChIP-seq, Methyl-seq
-  * **Frameworks & Environments:** Slurm (Linux HPC), Conda, Docker/Singularity, Nextflow, Git, Arduino, Raspberry Pi
+  * **Frameworks & Environments:** Slurm (Linux HPC), Conda, Docker/Singularity, Nextflow, Snakemake, R-Shiny, Git, Arduino, Raspberry Pi
   * **Machine Learning:** Basic Scikit-learn and TensorFlow
 
 Education
