@@ -27,17 +27,15 @@ Research Skills & Methods
 
 Education
 ======
-* Oct 2023-July 2027: **Molecular Biology and Genetics, B.Sc.** [Fully Funded Turkish Government Scholarship](https://www.turkiyeburslari.gov.tr/)
+* Oct 2023-July 2027: **Molecular Biology and Genetics, B.Sc.** — GPA: 3.27/4 · [Fully Funded Turkish Government Scholarship](https://www.turkiyeburslari.gov.tr/)
 
   *Uludağ University, Bursa, Türkiye*
-
-  * GPA: 3.27/4
 
 Research & Professional Experience
 ======
 * Oct 2026-Present: **Bioinformatics Pipeline Developer**
 
-  *Genalyse UK Ltd, United Kingdom (Remote)*
+  *[Genalyse UK Ltd](https://www.genalyse.com/), United Kingdom (Remote)*
 
   * Developing scalable Nextflow pipelines for clinical RNA-seq analysis, integrating QC, STAR alignment, Salmon quantification, differential expression, GSEA, aberrant splicing, expression outlier detection, and allele-specific expression.
   * Engineering backend-ready integration through structured data contracts, AWS compute/cost optimization, and UI/UX mockups to guide frontend development.
