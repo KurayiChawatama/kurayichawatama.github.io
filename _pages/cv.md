@@ -35,7 +35,7 @@ Research & Professional Experience
 ======
 * Oct 2026-Present: **Bioinformatics Pipeline Developer**
 
-  *[Genalyse UK Ltd](https://www.genalyse.com/), United Kingdom (Remote)*
+  *Genalyse UK Ltd, United Kingdom (Remote)*
 
   * Developing scalable Nextflow pipelines for clinical RNA-seq analysis, integrating QC, STAR alignment, Salmon quantification, differential expression, GSEA, aberrant splicing, expression outlier detection, and allele-specific expression.
   * Engineering backend-ready integration through structured data contracts, AWS compute/cost optimization, and UI/UX mockups to guide frontend development.
