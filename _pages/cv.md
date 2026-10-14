@@ -28,8 +28,22 @@ Education
 
   * GPA: 3.27/4
 
-Research Experience
+Research & Professional Experience
 ======
+* Oct 2026-Present: **Bioinformatics Pipeline Developer**
+
+  *Genalyse UK Ltd, United Kingdom (Remote)*
+
+  * Developing scalable Nextflow pipelines for clinical RNA-seq analysis, integrating QC, STAR alignment, Salmon quantification, differential expression, GSEA, aberrant splicing, expression outlier detection, and allele-specific expression.
+  * Engineering backend-ready integration through structured data contracts, AWS compute/cost optimization, and UI/UX mockups to guide frontend development.
+
+* Oct 2026-Jan 2027: **Final Year Research Project**
+
+  *Assoc. Prof. Dilek Pirim, Uludağ University, Türkiye*
+
+  * Selected as 1 of 8 students from a class of 65 to propose and undertake a semester-long research project culminating in a thesis report and presentation.
+  * Benchmarking statistical methods (Spearman correlation, linear regression, MaAsLin2) for detecting host–microbiome associations through integration of metagenomic and host RNA-seq data, evaluating statistical performance, robustness, and computational efficiency.
+
 * Oct 2024-Present: **Undergraduate Researcher**
   
   *Prof. Berrin Tunca, Uludağ University, Türkiye*
@@ -75,7 +89,7 @@ Research Experience
   * Methly-seq pilot study [poster](https://www.researchgate.net/publication/374535049_Comprehensive_Analysis_of_Promoter_Methylation_Effects_on_the_GPRC5A_Methylation_Profile_Across_Various_Cancer_Types) presented at a [bioinformatics symposium](https://hibit2023.hacettepe.edu.tr/).
   * Carried out routine molecular genetics techniques: DNA isolation, PCR, and Gel Electrophoresis.
 
-Academic Societies & Networks
+Community Engagement & Volunteering
 ======
 
 * Mar 2025–Present: **Contributor & Core Team Member**
@@ -106,6 +120,14 @@ Academic Societies & Networks
   * Integrated chemical & robotic modules into an [autonomous life detecting minilab](https://github.com/KurayiChawatama/Ulurover-Minilab).
   * Helped pitch the project to multiple industry partners and secure over $10,000 in materials and sponsorships.
   * Led the science team in an additional project that won best Presentation & Pitch at the 2025 [Teknofest Biotechnology Startup Idea Competition](https://www.teknofest.org/en/yarismalar/biotechnology-innovation-competition/), placing 5th/1400.
+
+* Mar 2025–Present: **Founding Board Member**
+
+  *Zimbabwe Students in Türkiye Association (ZSTA)*
+
+  * Co-founded with 6 other students in coordination with the Embassy of Zimbabwe, establishing a strategic network that has quickly grown to serve ~100 students.
+  * Provided academic mentorship, coordinated a career guidance seminar, an onboarding session for new students, and the 2026 Independence Day celebration.
+  * Cultivated institutional relationships with Turkish industry partners to guarantee internship spots for members studying engineering disciplines.
 
 References
 ======

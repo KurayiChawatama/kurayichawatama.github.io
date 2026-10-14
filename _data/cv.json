@@ -38,6 +38,28 @@
   },
   "work": [
     {
+      "company": "Genalyse UK Ltd, United Kingdom (Remote)",
+      "position": "Bioinformatics Pipeline Developer",
+      "startDate": "2026-10-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Developing scalable Nextflow pipelines for clinical RNA-seq analysis, integrating QC, STAR alignment, Salmon quantification, differential expression, GSEA, aberrant splicing, expression outlier detection, and allele-specific expression.",
+        "Engineering backend-ready integration through structured data contracts, AWS compute/cost optimization, and UI/UX mockups to guide frontend development."
+      ]
+    },
+    {
+      "company": "Assoc. Prof. Dilek Pirim, Uludağ University, Türkiye",
+      "position": "Final Year Research Project",
+      "startDate": "2026-10-01",
+      "endDate": "2027-01-01",
+      "summary": "",
+      "highlights": [
+        "Selected as 1 of 8 students from a class of 65 to propose and undertake a semester-long research project culminating in a thesis report and presentation.",
+        "Benchmarking statistical methods (Spearman correlation, linear regression, MaAsLin2) for detecting host–microbiome associations through integration of metagenomic and host RNA-seq data, evaluating statistical performance, robustness, and computational efficiency."
+      ]
+    },
+    {
       "company": "Uludağ University",
       "position": "Undergraduate Researcher",
       "startDate": "2024-10-01",
