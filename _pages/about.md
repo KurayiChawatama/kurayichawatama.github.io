@@ -15,15 +15,19 @@ I actively contribute to the open-source bioinformatics community through the [n
 
 Outside of research, I have a passion for robotics. I lead the Science sub-team at [UluRover](https://www.linkedin.com/posts/kurayi-chawatama_contrary-to-my-last-post-i-am-thrilled-to-activity-7221957382296223744-aP9r?utm_source=share&utm_medium=member_desktop), a competitive Mars rover team at Uludağ University. We design and integrate robotic systems to conduct automated biological and chemical experiments in simulated Martian environments, competing in international contests organized by NASA ([URC](https://urc.marssociety.org/)) and the European Space Agency ([ERC](https://roverchallenge.eu/)).
 
-Skills
+Research Skills & Methods
 ======
 
-* **Experimental:** DNA Isolation from Blood, Restriction Digestion, PCR, Agarose Gel Electrophoresis, Bacterial Culture & Cloning
-* **Computational:** 
-  * **Programming Languages:** R, Python, Nextflow, Bash, Arduino
-  * **NGS Data Analysis:** Bulk & Single Cell RNA-seq, TCR-seq, CITE-seq, Microarray, WES/WGS Processing & Variant Analysis, ChIP-seq, Methyl-seq
-  * **Frameworks & Environments:** Slurm (Linux HPC), Conda, Docker/Singularity, Nextflow, Snakemake, R-Shiny, Git, Arduino, Raspberry Pi
-  * **Machine Learning:** Basic Scikit-learn and TensorFlow
+**Experimental**
+
+* **Molecular Genetics Techniques:** DNA Isolation from Blood, Restriction Digestion, PCR, Agarose Gel Electrophoresis, Bacterial Culture & Cloning
+
+**Computational**
+
+* **Programming Languages:** R, Python, Nextflow, Bash, Arduino
+* **NGS Data Analysis:** Bulk & Single Cell RNA-seq, TCR-seq, CITE-seq, Microarray, WES/WGS Processing & Variant Analysis, ChIP-seq, Methyl-seq
+* **Frameworks & Environments:** Slurm (Linux HPC), Conda, Docker/Singularity, Nextflow, Snakemake, R-Shiny, Git, Arduino, Raspberry Pi
+* **Machine Learning:** Basic Scikit-learn and TensorFlow
 
 Grants & Scholarships
 ======

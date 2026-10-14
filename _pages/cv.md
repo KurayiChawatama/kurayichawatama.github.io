@@ -11,14 +11,19 @@ redirect_from:
 
 You may also download the [PDF CV](/files/cv.pdf).
 
-Skills
+Research Skills & Methods
 ======
-* **Experimental:** DNA Isolation from Blood, Restriction Digestion, PCR, Agarose Gel Electrophoresis, Bacterial Culture & Cloning
-* **Computational:** 
-  * **Programming Languages:** R, Python, Nextflow, Bash, Arduino
-  * **NGS Data Analysis:** Bulk & Single Cell RNA-seq, TCR-seq, CITE-seq, Microarray, WES/WGS Processing & Variant Analysis, ChIP-seq, Methyl-seq
-  * **Frameworks & Environments:** Slurm (Linux HPC), Conda, Docker/Singularity, Nextflow, Snakemake, R-Shiny, Git, Arduino, Raspberry Pi
-  * **Machine Learning:** Basic Scikit-learn and TensorFlow
+
+**Experimental**
+
+* **Molecular Genetics Techniques:** DNA Isolation from Blood, Restriction Digestion, PCR, Agarose Gel Electrophoresis, Bacterial Culture & Cloning
+
+**Computational**
+
+* **Programming Languages:** R, Python, Nextflow, Bash, Arduino
+* **NGS Data Analysis:** Bulk & Single Cell RNA-seq, TCR-seq, CITE-seq, Microarray, WES/WGS Processing & Variant Analysis, ChIP-seq, Methyl-seq
+* **Frameworks & Environments:** Slurm (Linux HPC), Conda, Docker/Singularity, Nextflow, Snakemake, R-Shiny, Git, Arduino, Raspberry Pi
+* **Machine Learning:** Basic Scikit-learn and TensorFlow
 
 Education
 ======
