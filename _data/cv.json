@@ -123,7 +123,7 @@
       "endDate": "2024-07-01",
       "summary": "Worked on the comprehensive analysis of GPRC5A promoter methylation across cancer types.",
       "highlights": [
-        "Presented a methyl-seq pilot study poster at a bioinformatics symposium.",
+        "Presented a Methyl-seq pilot study poster at a bioinformatics symposium.",
         "Performed DNA isolation, PCR, and agarose gel electrophoresis."
       ]
     }
@@ -145,35 +145,53 @@
     {
       "name": "Experimental",
       "keywords": [
-        "DNA isolation from blood",
-        "Restriction digestion",
+        "DNA Isolation from Blood",
+        "Restriction Digestion",
         "PCR",
-        "Agarose gel electrophoresis",
-        "Bacterial culture",
-        "Plasmid cloning",
-        "Cell culture",
-        "Flow cytometry"
+        "Agarose Gel Electrophoresis",
+        "Bacterial Culture & Cloning"
       ]
     },
     {
-      "name": "Computational",
+      "name": "Programming Languages",
       "keywords": [
         "R",
         "Python",
         "Nextflow",
         "Bash",
-        "Git",
-        "Docker",
-        "Singularity",
-        "Slurm",
-        "scRNA-seq",
-        "CITE-seq",
+        "Arduino"
+      ]
+    },
+    {
+      "name": "NGS Data Analysis",
+      "keywords": [
+        "Bulk & Single Cell RNA-seq",
         "TCR-seq",
-        "WES/WGS",
+        "CITE-seq",
+        "Microarray",
+        "WES/WGS Processing & Variant Analysis",
         "ChIP-seq",
-        "Methyl-seq",
-        "Bulk RNA-seq",
-        "Basic machine learning"
+        "Methyl-seq"
+      ]
+    },
+    {
+      "name": "Frameworks & Environments",
+      "keywords": [
+        "Slurm (Linux HPC)",
+        "Conda",
+        "Docker/Singularity",
+        "Nextflow",
+        "Snakemake",
+        "R-Shiny",
+        "Git",
+        "Arduino",
+        "Raspberry Pi"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "keywords": [
+        "Basic Scikit-learn and TensorFlow"
       ]
     }
   ],

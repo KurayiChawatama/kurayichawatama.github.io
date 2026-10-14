@@ -78,7 +78,7 @@ Research & Professional Experience
   
   *Asst. Prof. Atakan Ekiz, Izmir Institute Of Technology, Türkiye*
 
-  * Performed bioinformatics analyses in tumor immunology using bulk/single-cell RNA-seq, TCR-seq, and microarray data to investigate immune-related lnRNAs.
+  * Performed bioinformatics analyses in tumor immunology using bulk/single-cell RNA-seq, TCR-seq, and microarray data to investigate immune-related lncRNAs.
   * Assisted with lentiviral transduction, cell culture passaging, mouse xenograft modeling, and flow cytometry.
 
 * May 2023-Jul 2024: **Undergraduate Researcher & Intern**
@@ -86,7 +86,7 @@ Research & Professional Experience
   *Asst. Prof. Elif Uz Yıldırım, Uludağ University, Türkiye*
 
   * Comprehensive Analysis of GPRC5A Promoter Methylation Across Cancer Types
-  * Methly-seq pilot study [poster](https://www.researchgate.net/publication/374535049_Comprehensive_Analysis_of_Promoter_Methylation_Effects_on_the_GPRC5A_Methylation_Profile_Across_Various_Cancer_Types) presented at a [bioinformatics symposium](https://hibit2023.hacettepe.edu.tr/).
+  * Methyl-seq pilot study [poster](https://www.researchgate.net/publication/374535049_Comprehensive_Analysis_of_Promoter_Methylation_Effects_on_the_GPRC5A_Methylation_Profile_Across_Various_Cancer_Types) presented at a [bioinformatics symposium](https://hibit2023.hacettepe.edu.tr/).
   * Carried out routine molecular genetics techniques: DNA isolation, PCR, and Gel Electrophoresis.
 
 Community Engagement & Volunteering
