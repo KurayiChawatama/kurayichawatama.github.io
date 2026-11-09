@@ -37,6 +37,7 @@ Grants & Scholarships
   * Received [Erasmus+ Traineeship](https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/traineeships-abroad-for-students) funding for a 3-month research position at Karolinska Institutet (2025).
   * Awarded the [EU-funded SUSA Internship](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/11143) developing Nextflow pipelines for cancer genomics tools at Middle East Technical University (2026).
   * Selected as one of 240 of 10,000 applicants for the Türkiye Bursları‑funded [Sabancı University PURE internship](https://pure.sabanciuniv.edu/), developing computational tools for genomic mutation pathogenicity prediction (2026).
+  * Recipient of a [TADD scholarship](https://tadd.org.tr/bagis/egitim-ve-burs-destegi/15) and stipend for Africa-oriented leadership and project development education (2026).
 
 
 * **Grants**
@@ -45,3 +46,4 @@ Grants & Scholarships
 * **Awards**
   * Best Presentation & Pitch, 2025 [Teknofest Biotechnology Startup Idea Competition](https://www.teknofest.org/en/yarismalar/biotechnology-innovation-competition/), Placed 5th/1400.
   * Poster presentation honor prize at The [18th International Symposium on Health Informatics and Bioinformatics](https://hibit2025.medipol.edu.tr/).
+  * Best Presentation & Pitch Award at the 2025 [TEKNOFEST Biotechnology Startup Idea Competition](https://www.teknofest.org/en/yarismalar/biotechnology-innovation-competition/), among 1,400 participants in Türkiye and Cyprus (placed 5th/1400).

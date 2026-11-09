@@ -27,7 +27,7 @@ Research Skills & Methods
 
 Education
 ======
-* Oct 2023-July 2027: **Molecular Biology and Genetics, B.Sc.** — GPA: 3.27/4 · [Fully Funded Turkish Government Scholarship](https://www.turkiyeburslari.gov.tr/)
+* Oct 2023-July 2027: **Molecular Biology and Genetics, B.Sc. (in Turkish)** — GPA: 3.27/4 · [Fully Funded Turkish Government Scholarship](https://www.turkiyeburslari.gov.tr/)
 
   *Uludağ University, Bursa, Türkiye*
 
@@ -45,15 +45,16 @@ Research & Professional Experience
   *Assoc. Prof. Dilek Pirim, Uludağ University, Türkiye*
 
   * Selected as 1 of 8 students from a class of 65 to propose and undertake a semester-long research project culminating in a thesis report and presentation.
-  * Benchmarking statistical methods (Spearman correlation, linear regression, MaAsLin2) for detecting host–microbiome associations through integration of metagenomic and host RNA-seq data, evaluating statistical performance, robustness, and computational efficiency.
+  * Benchmarking statistical methods (Spearman correlation, linear regression, MaAsLin2, MaAsLin3, and MITScan) for detecting host–microbiome associations through integration of metagenomic and host RNA-seq data, evaluating statistical performance, robustness, and computational efficiency.
 
 * Oct 2024-Present: **Undergraduate Researcher**
   
   *Prof. Berrin Tunca, Uludağ University, Türkiye*
 
   * Characterizing Tumor Microenvironment Transcriptome Variations in NASH and Viral Hepatocellular Carcinomas for Targeted Therapy
-  * Proposed and secured a grant to perform cross-species scRNA-seq integration and differential analysis of the poorly treated and characterized NASH-HCC, which lacks human scRNA-seq data, and validated in vitro using an FFA-induced HCC model. [TÜBİTAK 2209-A Grant Funded](https://tubitak.gov.tr/en/scholarships/lisans-onlisans/destek-programlari/2209-research-project-support-programme-undergraduate-students)
-  * The preliminary results poster was awarded the honor prize at a [bioinformatics symposium](https://hibit2025.medipol.edu.tr/)
+  * Proposed and secured a grant to perform cross-species scRNA-seq integration and differential analysis of the poorly characterized and therapeutically challenging NASH-HCC, which lacks human scRNA-seq data, and validated in vitro using an FFA-induced HCC model. [TÜBİTAK 2209-A Grant Funded](https://tubitak.gov.tr/en/scholarships/lisans-onlisans/destek-programlari/2209-research-project-support-programme-undergraduate-students)
+  * Identified potential therapy resistance mechanisms involving hepatocyte metabolic rewiring, stromal activation, and immune–stromal crosstalk in MASH-HCC.
+  * The preliminary results poster was awarded the honor prize at a [bioinformatics symposium](https://hibit2025.medipol.edu.tr/) and was later presented at an international immunology symposium.
 
 * Jul 2026-Sep 2026: **Undergraduate Researcher**
 
@@ -64,8 +65,9 @@ Research & Professional Experience
 
 * Jan 2026-Feb 2026: **Bioinformatics Intern**
   
-  *Asst. Prof. Burçak Otlu, Middle East Technical University, Türkiye*
+  *Asst. Prof. Burçak Otlu, Middle East Technical University, Türkiye (Remote)*
 
+  * Analyzed large-scale cancer genome datasets to identify mutations and mutational processes associated with tumor development.
   * Worked with Nextflow pipelines for large-scale WES/WGS cancer genomics, including somatic variant calling and mutational signature analysis.
   * Performed basic processing and analysis of multiple omics data types at scale, including: ChIP-seq, Methyl-seq, and Bulk RNA-seq. [EU-funded SUSA Internship](https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/traineeships-abroad-for-students)
 
@@ -92,14 +94,15 @@ Research & Professional Experience
   * Methyl-seq pilot study [poster](https://www.researchgate.net/publication/374535049_Comprehensive_Analysis_of_Promoter_Methylation_Effects_on_the_GPRC5A_Methylation_Profile_Across_Various_Cancer_Types) presented at a [bioinformatics symposium](https://hibit2023.hacettepe.edu.tr/).
   * Carried out routine molecular genetics techniques: DNA isolation, PCR, and Gel Electrophoresis.
 
-Community Engagement & Volunteering
+Volunteering & Community Involvement
 ======
 
 * Mar 2025–Present: **Contributor & Core Team Member**
 
   *nf-core*
 
-  * Contributed to the nf-core/scdownstream Single Cell RNA-seq pipeline by fixing runtime errors and developing [doublet detection modules](https://github.com/nf-core/scdownstream/pull/261).
+  * nf-core is an open-source bioinformatics initiative dedicated to building peer-reviewed, reproducible data analysis pipelines used by millions of researchers globally.
+  * Ranked top 3 code contributor to the [nf-core/scdownstream Single Cell RNA-seq pipeline](https://github.com/nf-core/scdownstream) by fixing runtime errors and developing [doublet detection modules](https://github.com/nf-core/scdownstream/pull/261).
   * Authored documentation and a blog post on running nf-core pipelines in Google Colab as part of the [core outreach team](https://nf-co.re/governance#outreach).
 
 * Oct 2024–Present: **Task Force Member**
@@ -107,22 +110,24 @@ Community Engagement & Volunteering
   *Young European Federation of Immunological Societies (yEFIS)*
 
   * Organized a [webinar](https://www.linkedin.com/posts/y-efis_join-us-for-an-exciting-webinar-on-antigenic-activity-7438548852258934785-abes?utm_source=share&utm_medium=member_desktop&rcm=ACoAADXa6QQBrsSHxjXMefo65HwA85YT7Hk5Jhc) exploring immunoinformatics applications across industry and academia with the Immune Collaborators workgroup.
+  * Conceptualized and led development of an open-access blog page for the Immune Collaborators workgroup, managing an editorial pipeline of experimental advice and career-navigation resources for early-career researchers in immunology.
 
 * Jan 2024–Present: **Outreach & Translation Team Leader**
 
   *International Society for Computational Biology - RSG Türkiye*
 
   * Organized a [scRNA-seq Hackathon](https://youtu.be/Q3HJGraN7D8?si=eUCfpJfdYxEVJ96q) and a careers Q&A panel with RSG Australia and coordinated the Türkiye local site of the nf-core hackathon in 2025 and 2026.
-  * Directed Turkish translation of bioinformatics learning resources to increase accessibility for students in Türkiye.
+  * Directed Turkish translation and hosting on our webpage of bioinformatics learning resources to increase accessibility for students in Türkiye.
+  * Developing a free, 5-week bioinformatics course based on RNA-seq to expand access to hands-on training in Turkish.
 
 * Nov 2022–Present: **Science Team Leader**
 
   *UluRover, Uludağ University Robotics Society*
 
-  * Led R&D for an [interplanetary rover](https://www.linkedin.com/posts/kurayi-chawatama_contrary-to-my-last-post-i-am-thrilled-to-activity-7221957382296223744-aP9r?utm_source=share&utm_medium=member_desktop) competing on simulated Martian surfaces. 
-  * Integrated chemical & robotic modules into an [autonomous life detecting minilab](https://github.com/KurayiChawatama/Ulurover-Minilab).
+  * Led R&D for an [interplanetary rover](https://www.linkedin.com/posts/kurayi-chawatama_contrary-to-my-last-post-i-am-thrilled-to-activity-7221957382296223744-aP9r?utm_source=share&utm_medium=member_desktop) competing on simulated Martian surfaces. Integrated chemical & robotics modules into an [autonomous life detection minilab](https://github.com/KurayiChawatama/Ulurover-Minilab).
   * Helped pitch the project to multiple industry partners and secure over $10,000 in materials and sponsorships.
-  * Led the science team in an additional project that won best Presentation & Pitch at the 2025 [Teknofest Biotechnology Startup Idea Competition](https://www.teknofest.org/en/yarismalar/biotechnology-innovation-competition/), placing 5th/1400.
+  * Received key career mentorship from the previous team leader and subsequently institutionalized annual recruitment and mentoring of two life sciences freshmen.
+  * Led the science team in an additional project that won Best Presentation & Pitch at the 2025 [Teknofest Biotechnology Startup Idea Competition](https://www.teknofest.org/en/yarismalar/biotechnology-innovation-competition/), placing 5th/1400.
 
 * Mar 2025–Present: **Founding Board Member**
 
